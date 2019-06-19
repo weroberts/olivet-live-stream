@@ -1,0 +1,10 @@
+data = '{\
+    "title":"Olivet Live Stream",\
+    "description": "Welcome to the 2019 Indoor High School Invite live stream. If a live feed is not appearing, or you want to view previously streamed events, you can search for it manually <a href=\'https://www.youtube.com/channel/UC9VfZbChEyrNoLdJoIfvLnQ/videos?view=0&sort=dd&shelf_id=0&view_as=subscriber\'>here</a>. Throws, high jump, long jump, pole vault, and running events all have separate streams that will appear below before the events go off.",\
+    "videoIds1": ["CfSYQojMuiA", "lRu78LDQjyI", "KNXQdu5KGLk", "R3zwpZnnFJg"],\
+    "videoCollectionTitle1": "Today\'s stream",\
+    "videoIds2": ["CfSYQojMuiA", "lRu78LDQjyI", "KNXQdu5KGLk", "R3zwpZnnFJg"],\
+    "videoCollectionTitle2": "Yesterday\'s stream",\
+    "videoId3": ["CfSYQojMuiA", "lRu78LDQjyI", "KNXQdu5KGLk", "R3zwpZnnFJg"],\
+    "videoCollectionTitle3": "Friday\'s stream"\
+}';
